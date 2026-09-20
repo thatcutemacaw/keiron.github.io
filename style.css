@@ -1,0 +1,33 @@
+body {
+    font-family: 'Interstate', sans-serif;
+    display: table;
+    height: 100vh;
+    width: 100%;
+    overflow-y: scroll;
+    background: #000;
+}
+.me {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    color: #fff;
+}
+
+.me h1 {
+    font-size: 72px;
+}
+
+.me a {
+    color: #fff;
+}
+
+.me div {
+    margin-top: 25px;
+}
+
+.me .btn span {
+    display: block;
+    width: 100px;
+}
+<div style="background-image: url(https://alexwedl.in/SharkBackground.jpg);">
+
